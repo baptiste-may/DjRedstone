@@ -8,7 +8,7 @@ Working on :
   - ⌨️ **Java Plugin**
 - Elementary Land (Java Minecraft Server) : [Discord link](https://discord.gg/y6cRsM2YqC)
   - ✨ **Effects technician**
-- allcraft0r's server (Discord Server) : [Discord link](https://discord.io/allcraft0r)
+- allcraft0r's server (Discord Server) : [Discord link](https://discord.io/allcraft0r) [Github repositories](https://github.com/DjRedstone/BotDiscordHierarchie)
   - 🤖 **Bot Developper**
   
 ---
