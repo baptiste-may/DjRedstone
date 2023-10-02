@@ -41,19 +41,19 @@
 |🚧 In progress|**🎤 Quote Sauce**|A game where you need to find who said the quote|[GitHub](https://github.com/DjRedstone/quote-sauce.git)|
 |✅ Deployed|**📝 Quote Sauce Theme creator**|A [website](https://djredstone.github.io/quote-sauce-theme-creator) where you can create your theme for [Quote Sauce](https://github.com/DjRedstone/quote-sauce.git)|[GitHub](https://github.com/DjRedstone/quote-sauce-theme-creator.git)|
 |✅ Deployed|**🤖 Allcraft0r Discord Bot**|A Bot for [Allcraft0r](https://www.youtube.com/@allcraft0r)'s Discord Server|[GitHub](https://github.com/DjRedstone/allcraft0r-discord-bot.git)|
-|✅ Deployed|**🎛️ Club Dare**|A virtual nightclub on a [website](https://club-dare.djredstone.repl.co)|[GitHub](https://github.com/DjRedstone/club-dare.git)|
-|🚧 In progress|**🚽 WC Line**|A virtual waiting line for WC on a [website](https://wc-line.glitch.me)|[GitHub](https://github.com/DjRedstone/wc-line.git)|
-|✅ Deployed|**🎲 Game Finder**|A [website](https://game-finder.djredstone.repl.co) for finding board game|[GitHub](https://github.com/DjRedstone/game-finder.git)|
+|✅ Deployed|**🎛️ Club Dare**|A virtual nightclub on a [website](http://club-dare.may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/club-dare.git)|
+|🚧 In progress|**🚽 WC Line**|A virtual waiting line for WC on a [website](http://wc-line.may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/wc-line.git)|
+|✅ Deployed|**🎲 Game Finder**|A [website](http://game-finder.may-baptiste.fr) for finding board game|[GitHub](https://github.com/DjRedstone/game-finder.git)|
 |🛑 On standby|**🤖 Hapory Discord Bot**|A Bot for Hapory Discord Server|[GitHub](https://github.com/DjRedstone/hapory-discord-bot.git)|
-|🚧 In progress|**👋 My Website**|Just [my website](https://me.djredstone.repl.co)|[GitHub](https://github.com/DjRedstone/my-website.git)|
+|🚧 In progress|**👋 My Website**|Just [my website](http://may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/my-website.git)|
 |🚧 In progress|**🏠 My Safe Place**|My virtual safe place on [a website](https://djredstone.github.io/safe-place/)|[GitHub](https://github.com/DjRedstone/safe-place.git)|
 |✅ Finished|**🤖 Secret Santa Discord Bot**|A Discord Bot for organise secret santa|[GitHub](https://github.com/DjRedstone/secret-santa.git)|
 |🛑 On standby|**🌭 Socisseau website**|Uhh... Explanations [here](https://youtu.be/rEK8L2laKxk)|[GitHub](https://github.com/DjRedstone/socisseau-website.git)|
 |✅ Deployed|**📜 GRHB website**|A [website](http://busnes-histoire.fr) for Busnes History Research Group|[GitHub](https://github.com/DjRedstone/GRHB.git)|
 |🚧 In progress|**🃏 Onu**|A website like Ubisoft's uno online|[GitHub](https://github.com/DjRedstone/onu.git)|
 |🚧 In progress|**🤖 Tunic language Discord Bot**|A Discord Bot for speak in [Tunic](https://store.steampowered.com/app/553420/TUNIC/) language|[Replit](https://replit.com/@DjRedstone/TunicLang)|
-|✅ Deployed|**💡 TransIdea**|A [website](https://transidea.djredstone.repl.co) for translate an idea into some language to get name idea|[Replit](https://replit.com/@DjRedstone/TransIdea)|
-|✅ Deployed|**〽️ PolyTranslate**|A [website](https://polytranslate.djredstone.repl.co) for translate a sentence some times in others languages to get a totaly random (*or the same*) sentence at the end|[Replit](https://replit.com/@DjRedstone/PolyTranslate)|
+|✅ Deployed|**💡 TransIdea**|A [website](http://transidea.may-baptiste.fr) for translate an idea into some language to get name idea||
+|✅ Deployed|**〽️ PolyTranslate**|A [website](http://polytranslate.may-baptiste.fr) for translate a sentence some times in others languages to get a totaly random (*or the same*) sentence at the end||
 |🚧 In progress|**📽️ MyWatchingFilms**|A [website](https://mywatchingfilm.djredstone.repl.co) for list films that you watched|[Replit](https://replit.com/@DjRedstone/MyWatchingFilm)|
 |🚧 In progress|**🃏 Cards Games Discord Bot**|A Discord Bot for play some cards games|[Replit](https://replit.com/@DjRedstone/Cards-Game-Discord-Bot)|
 |✅ Deployed|**🤖 Nosto Discord Bot**| A Bot for [Nosto](https://discord.io/Nosto) Discord Server|[GitHub](https://github.com/nostoMC/discord-bot.git)|
